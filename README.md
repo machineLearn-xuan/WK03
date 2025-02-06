@@ -1,1 +1,3 @@
-# WK03
+# Week 03
+
+- Audio representation and processing
